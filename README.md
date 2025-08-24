@@ -147,8 +147,7 @@
 > [!IMPORTANT]
 > We encourage you to be an active part of our community:
 >
-> - **Join Our Telegram Community:** Connect with fellow DevOps enthusiasts, ask questions, and share your progress in our [Telegram group](https://t.me/prodevopsguy).
-> - **Follow Me on GitHub:** Stay updated with new projects and content by [following me on GitHub](https://github.com/NotHarshhaa).
+> - **Follow Me on GitHub:** Stay updated with new projects and content by [following me on GitHub](https://github.com/Naghi20).
 
 ---
 
