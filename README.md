@@ -166,6 +166,6 @@ I’d love to hear your feedback! Feel free to share your thoughts.
 
 ### 📧 **Connect with me:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/Naghi20](https://www.linkedin.com/in/ahmed-alnaghi/)) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naghi20) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://[linkedin.com/in/ahmed-alnaghi](https://www.linkedin.com/in/ahmed-alnaghi/)) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naghi20) 
 
 
